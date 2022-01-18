@@ -6,14 +6,15 @@ This project uses the ERC 721 Smart contract from Open zeppelin. Event owners ca
 ### Setup 
 #### To run this project, Install using npm:
 
-
-   $ Clone repo with git clone https://github.com/holyaustin/MemoTickets.git
+```
+   $ Clone repo (git clone https://github.com/holyaustin/MemoTickets.git)
    $ cd MemoTickets
    $ npm install
    $ px hardhat node
    $ npx hardhat run scripts/deploy.js --network localhost
    $ npm run dev
-
+   
+   
 ### Then do this add the Circle (USDC) Credit card payment processor
 
 
